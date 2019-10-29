@@ -8,7 +8,7 @@ Overview
 In this activity, we created an Amazon-like storefront with the MySQL skills from this unit. The app takes in orders from customers and deplete stock from the store's inventory.  This funtionality of this program is dependant on the following npm packages: inquire, mysql, cli-table.
 
 
-![slt text](bamazon.png)
+![slt text](bamazon.png)]
 
 [Node.js(https://dev.to/achowba/build-a-simple-app-using-node-js-and-mysql-19me)MySql]
 
