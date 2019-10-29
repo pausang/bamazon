@@ -10,7 +10,7 @@ In this activity, we created an Amazon-like storefront with the MySQL skills fro
 
 ![slt text](bamazon.png)
 
-[Node.js](https://dev.to/achowba/build-a-simple-app-using-node-js-and-mysql-19me)[MySql]
+[Node.js(https://dev.to/achowba/build-a-simple-app-using-node-js-and-mysql-19me)MySql]
 
 
 Quick Start: How to Use MySQL in Node
@@ -26,4 +26,4 @@ Run the file: node app.js. Observe a “Connected!” message.
 
 
 
-[Node.js,MySql](https://www.sitepoint.com/using-node-mysql-javascript-client/)
+[Node.js,MySql(https://www.sitepoint.com/using-node-mysql-javascript-client/)]
